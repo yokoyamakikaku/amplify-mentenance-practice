@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifymentenancepra-main-125003",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:693825121436:stack/amplify-amplifymentenancepra-main-125003/a0d6ec00-4d31-11ee-a8ac-0a63af70ebf1",
       "AmplifyAppId": "dhuy5xah6kpdj"
+    },
+    "categories": {
+      "auth": {
+        "amplifymentenancepra74857b30": {}
+      }
     }
   }
 }
